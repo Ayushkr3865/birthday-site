@@ -88,6 +88,9 @@ export default function BirthdayCelebration() {
             >
               <div className="text-center">
                 <p className="text-purple-700 mb-2">
+                  Happy Birthday to the most amazing girl best friend ever! 🎉💖
+                  You bring so much light, laughter, and love into our lives, and we’re so lucky to have you. From your endless support to your infectious energy, you make everything better just by being you.
+                  May this year bring you endless happiness, exciting adventures, and everything your heart desires. Keep shining bright—because the world is a better place with you in it! 🌟🎂
                 Just wanted to remind you—you're my favorite person. My days are better, smiles are wider, and life is sweeter because of you.
                 </p>
                 <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
